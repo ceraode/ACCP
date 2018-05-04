@@ -1,0 +1,9 @@
+D:\s2\erzhang\li3\bin\Debug\li3.exe.config
+D:\s2\erzhang\li3\bin\Debug\li3.exe
+D:\s2\erzhang\li3\bin\Debug\li3.pdb
+D:\s2\erzhang\li3\obj\Debug\li3.csprojResolveAssemblyReference.cache
+D:\s2\erzhang\li3\obj\Debug\li3.exe
+D:\s2\erzhang\li3\obj\Debug\li3.pdb
+D:\s2\C#\erzhang\li3\bin\Debug\li3.exe.config
+D:\s2\C#\erzhang\li3\obj\Debug\li3.exe
+D:\s2\C#\erzhang\li3\obj\Debug\li3.pdb

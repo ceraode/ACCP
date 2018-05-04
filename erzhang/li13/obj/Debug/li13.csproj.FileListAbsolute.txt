@@ -1,0 +1,6 @@
+D:\s2\erzhang\li13\bin\Debug\li13.exe.config
+D:\s2\erzhang\li13\bin\Debug\li13.exe
+D:\s2\erzhang\li13\bin\Debug\li13.pdb
+D:\s2\erzhang\li13\obj\Debug\li13.csprojResolveAssemblyReference.cache
+D:\s2\erzhang\li13\obj\Debug\li13.exe
+D:\s2\erzhang\li13\obj\Debug\li13.pdb

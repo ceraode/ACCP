@@ -1,0 +1,10 @@
+D:\s2\erzhang\MyOffice\bin\Debug\MyOffice.exe.config
+D:\s2\erzhang\MyOffice\bin\Debug\MyOffice.exe
+D:\s2\erzhang\MyOffice\bin\Debug\MyOffice.pdb
+D:\s2\erzhang\MyOffice\obj\Debug\MyOffice.csprojResolveAssemblyReference.cache
+D:\s2\erzhang\MyOffice\obj\Debug\MyOffice.FrmJudge.resources
+D:\s2\erzhang\MyOffice\obj\Debug\MyOffice.FrmShow.resources
+D:\s2\erzhang\MyOffice\obj\Debug\MyOffice.Properties.Resources.resources
+D:\s2\erzhang\MyOffice\obj\Debug\MyOffice.csproj.GenerateResource.Cache
+D:\s2\erzhang\MyOffice\obj\Debug\MyOffice.exe
+D:\s2\erzhang\MyOffice\obj\Debug\MyOffice.pdb

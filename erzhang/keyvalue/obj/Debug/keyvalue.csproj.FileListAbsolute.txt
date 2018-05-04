@@ -1,0 +1,5 @@
+D:\s2\erzhang\keyvalue\bin\Debug\keyvalue.exe.config
+D:\s2\erzhang\keyvalue\bin\Debug\keyvalue.exe
+D:\s2\erzhang\keyvalue\bin\Debug\keyvalue.pdb
+D:\s2\erzhang\keyvalue\obj\Debug\keyvalue.exe
+D:\s2\erzhang\keyvalue\obj\Debug\keyvalue.pdb

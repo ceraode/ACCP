@@ -1,0 +1,6 @@
+D:\s2\erzhang\erzhang\bin\Debug\erzhang.exe.config
+D:\s2\erzhang\erzhang\bin\Debug\erzhang.exe
+D:\s2\erzhang\erzhang\bin\Debug\erzhang.pdb
+D:\s2\erzhang\erzhang\obj\Debug\erzhang.csprojResolveAssemblyReference.cache
+D:\s2\erzhang\erzhang\obj\Debug\erzhang.exe
+D:\s2\erzhang\erzhang\obj\Debug\erzhang.pdb

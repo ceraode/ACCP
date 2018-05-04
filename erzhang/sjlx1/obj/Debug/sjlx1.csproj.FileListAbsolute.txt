@@ -1,0 +1,9 @@
+D:\s2\erzhang\sjlx1\bin\Debug\sjlx1.exe.config
+D:\s2\erzhang\sjlx1\bin\Debug\sjlx1.exe
+D:\s2\erzhang\sjlx1\bin\Debug\sjlx1.pdb
+D:\s2\erzhang\sjlx1\obj\Debug\sjlx1.csprojResolveAssemblyReference.cache
+D:\s2\erzhang\sjlx1\obj\Debug\sjlx1.Form1.resources
+D:\s2\erzhang\sjlx1\obj\Debug\sjlx1.Properties.Resources.resources
+D:\s2\erzhang\sjlx1\obj\Debug\sjlx1.csproj.GenerateResource.Cache
+D:\s2\erzhang\sjlx1\obj\Debug\sjlx1.exe
+D:\s2\erzhang\sjlx1\obj\Debug\sjlx1.pdb

@@ -1,0 +1,10 @@
+D:\s2\erzhang\li4\bin\Debug\li4.exe.config
+D:\s2\erzhang\li4\bin\Debug\li4.exe
+D:\s2\erzhang\li4\bin\Debug\li4.pdb
+D:\s2\erzhang\li4\obj\Debug\li4.csprojResolveAssemblyReference.cache
+D:\s2\erzhang\li4\obj\Debug\li4.exe
+D:\s2\erzhang\li4\obj\Debug\li4.pdb
+D:\s2\C#\erzhang\li4\bin\Debug\li4.exe.config
+D:\s2\C#\erzhang\li4\obj\Debug\li4.exe
+D:\s2\C#\erzhang\li4\obj\Debug\li4.pdb
+D:\s2\C#\erzhang\li4\obj\Debug\li4.csprojResolveAssemblyReference.cache

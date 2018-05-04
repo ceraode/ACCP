@@ -1,0 +1,5 @@
+D:\s2\erzhang\li6\bin\Debug\li6.exe.config
+D:\s2\erzhang\li6\bin\Debug\li6.exe
+D:\s2\erzhang\li6\bin\Debug\li6.pdb
+D:\s2\erzhang\li6\obj\Debug\li6.exe
+D:\s2\erzhang\li6\obj\Debug\li6.pdb

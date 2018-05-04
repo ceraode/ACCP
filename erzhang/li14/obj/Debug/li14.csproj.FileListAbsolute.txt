@@ -1,0 +1,5 @@
+D:\s2\erzhang\li14\bin\Debug\li14.exe.config
+D:\s2\erzhang\li14\obj\Debug\li14.csprojResolveAssemblyReference.cache
+D:\s2\erzhang\li14\obj\Debug\li14.Form1.resources
+D:\s2\erzhang\li14\obj\Debug\li14.Properties.Resources.resources
+D:\s2\erzhang\li14\obj\Debug\li14.csproj.GenerateResource.Cache

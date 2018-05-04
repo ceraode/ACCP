@@ -1,0 +1,2 @@
+F:\TecahCode\S2230NET\S2230NET\Day01_0100\bin\Debug\Day01_0100.exe.config
+D:\s2\S2230NET\Day01_0100\bin\Debug\Day01_0100.exe.config
